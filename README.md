@@ -1,5 +1,5 @@
 # AUTOCAD-LEARNING-JOURNEY
-Learning AutoCAD from scratch .  2D and 3F drawings, mechanical parts, and engineering graphics practice.
+Learning AutoCAD from scratch .  2D and 3D drawings, mechanical parts, and engineering graphics practice.
 
 # AutoCAD Learning Journey
 
